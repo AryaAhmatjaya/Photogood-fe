@@ -1,0 +1,48 @@
+.register
+
+&__container {
+    display: flex;
+   
+    height: 100vh;
+  }
+  
+&__imageContainer {
+    flex: 1;
+    padding: 20px;
+  }
+  
+&__formContainer {
+    flex: 1;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  
+  
+&__form {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin: auto;
+  }
+  
+&__label {
+    margin-bottom: 8px;
+  }
+  
+&__input {
+    margin-bottom: 16px;
+    padding: 8px;
+  }
+  
+&__button {
+    padding: 10px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+&__button:hover {
+    background-color: #2980b9;
+  }

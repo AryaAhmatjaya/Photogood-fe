@@ -1,0 +1,28 @@
+.container-detail {
+    margin-left: 5%;
+    margin-top: 4%;
+    overflow: hidden;
+  }
+  
+  .gambar-stylized {
+    border: 2px solid #333;
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    height: 515px;
+    width: 850px;
+  }
+  
+  .row-detail {
+    display: flex;
+  }
+  
+  .komentar-detail{
+    margin-left: 15px;
+    max-width: 500px;
+  }
+  
+  
+  
+  
+  
+  

@@ -1,0 +1,53 @@
+ .column-profile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5%;
+  }
+  
+  .gambar-profile {
+    border: 2px solid #333;
+    border-radius: 50px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    height: 100px;
+    width: 100px;
+  }
+  
+  .profile-btn {
+    border-radius: 50px;
+    height: 40px;
+    width: 150px;
+    background-color: #0B60B0;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3),
+      -5px -5px 10px rgba(255, 255, 255, 0.3);
+  }
+  
+  .row-btn {
+    margin: 2%;
+    display: flex;
+    align-items: center;
+  }
+
+  .row-btn-prof{
+    margin: 2%;
+  }
+
+  .img-row {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .img-daftar{
+    max-width: 220px;
+    max-height: 280px;
+    margin-right: 1%;
+  }
+
+  .img-post{
+    border-radius: 10px;
+  }
+  
